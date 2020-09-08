@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/PhanTuanV1/static/js/main.cf359365.chunk.js",
+    "main.js.map": "/PhanTuanV1/static/js/main.cf359365.chunk.js.map",
+    "runtime~main.js": "/PhanTuanV1/static/js/runtime~main.54c490f7.js",
+    "runtime~main.js.map": "/PhanTuanV1/static/js/runtime~main.54c490f7.js.map",
+    "static/css/2.266e55a5.chunk.css": "/PhanTuanV1/static/css/2.266e55a5.chunk.css",
+    "static/js/2.daa2d9d8.chunk.js": "/PhanTuanV1/static/js/2.daa2d9d8.chunk.js",
+    "static/js/2.daa2d9d8.chunk.js.map": "/PhanTuanV1/static/js/2.daa2d9d8.chunk.js.map",
+    "index.html": "/PhanTuanV1/index.html",
+    "precache-manifest.fe49a58bc9c063c206931f5b41c81116.js": "/PhanTuanV1/precache-manifest.fe49a58bc9c063c206931f5b41c81116.js",
+    "service-worker.js": "/PhanTuanV1/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/PhanTuanV1/static/css/2.266e55a5.chunk.css.map"
+  }
+}
